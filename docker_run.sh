@@ -11,4 +11,3 @@ sudo docker run \
     --rm \
     openresty/openresty:alpine
 
-    #-v $PWD/conf.d:/etc/nginx/conf.d \
