@@ -68,4 +68,5 @@ open 'conf.d/api_conf.d/'. Add new API file to this folder.
 [todo] 10. token auth
 [done] 11. log to custom folder
 [todo] 12. audit
+[done] 13. docker run
 ```
