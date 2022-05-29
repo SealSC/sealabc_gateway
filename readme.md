@@ -53,3 +53,19 @@ upstream sealabc_nodes {
 
 open 'conf.d/api_conf.d/'. Add new API file to this folder.
 
+## function support
+
+```
+[done] 1. load balancer
+[done] 2. reverse proxy
+[done] 3. api router
+[done] 4. enforcing request methods
+[doing] 5. access control
+[doing] 6. TLS conntect
+[done] 7. rate limit
+[todo] 8. body validating
+[todo] 9. body size limit
+[todo] 10. token auth
+[done] 11. log to custom folder
+[todo] 12. audit
+```
